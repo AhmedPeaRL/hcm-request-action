@@ -1,0 +1,7 @@
+{
+  "request_type": "action",
+  "allowed": true,
+  "action_is_never_assumed": true,
+  "no_execution_pipeline": true,
+  "action_requires_external_alignment": true
+}
